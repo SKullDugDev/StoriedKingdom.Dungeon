@@ -1,0 +1,62 @@
+{
+  "Games": [
+    {
+      "System": "D&D",
+      "Edition": "Edition1",
+      "Title": "Advanced Dungeons & Dragons",
+      "Alias": "AD&D",
+      "Alt": "D&D 1E",
+      "Enabled": false
+    },
+    {
+      "System": "D&D",
+      "Edition": "Edition2",
+      "Title": "Advanced Dungeons & Dragons 2nd Edition",
+      "Alias": "AD&D 2E",
+      "Alt": "D&D 2E",
+      "Enabled": false
+    },
+    {
+      "System": "D&D",
+      "Edition": "Edition3",
+      "Title": "Dungeons & Dragons 3rd Edition",
+      "Alias": "D&D 3E",
+      "Enabled": false
+    },
+    {
+      "System": "D&D",
+      "Edition": "Edition3.5",
+      "Title": "Dungeons & Dragons v3.5",
+      "Alias": "D&D 3.5E",
+      "Enabled": false
+    },
+    {
+      "System": "D&D",
+      "Edition": "Edition4",
+      "Title": "Dungeons & Dragons 4th Edition",
+      "Alias": "D&D 4E",
+      "Enabled": false
+    },
+    {
+      "System": "D&D",
+      "Edition": "Edition5",
+      "Title": "Dungeons & Dragon 5th Edition",
+      "Alias": "D&D 5E",
+      "Enabled": true
+    },
+    {
+      "System": "Pathfinder",
+      "Edition": "Edition1",
+      "Title": "Pathfinder 1st Edition",
+      "Alias": "PF1",
+      "Enabled": false
+    },
+    {
+      "System": "Pathfinder",
+      "Edition": "Edition2",
+      "Title": "Pathfinder 2nd Edition",
+      "Alias": "PF2",
+      "Enabled": true
+    }
+  ]
+}

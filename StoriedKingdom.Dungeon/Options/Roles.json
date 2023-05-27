@@ -1,0 +1,19 @@
+{
+  "Roles": {
+    "Administrator": {
+      "Id": 1,
+      "Alias": "Admin",
+      "Type": "Developer"
+    },
+    "Dungeon Master": {
+      "Id": 2,
+      "Alias": "DM",
+      "Type": "User"
+    },
+    "Player": {
+      "Id": 3,
+      "Alias": "PC",
+      "Type": "User"
+    }
+  }
+}
